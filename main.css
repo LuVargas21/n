@@ -8,6 +8,7 @@
     color: #000000;
 }
 
+
 .main-title {
     font-size: 50px;
     font-family: 'Cabin Sketch', cursive;
@@ -176,10 +177,6 @@
     padding: 15px;
 }
 
-.container-ss {
-    margin: 100px;
-
-}
 
 .sub-title3 {
     font-family: 'Cutive Mono', monospace;
