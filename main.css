@@ -181,3 +181,93 @@
 .sub-title3 {
     font-family: 'Cutive Mono', monospace;
 }
+
+
+.sub-title4 {
+    font-family: 'Cutive Mono', monospace;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+
+.container { align-items: center;
+margin: 80px;
+}
+
+.col-sm-6 {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 25px;
+    margin: 8px;
+    color: #54b77d;
+}
+
+.col-sm-5 {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 25px;
+    color:  #54b77d;
+}
+
+.col-sm {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 25px;
+    color:  #54b77d;
+}
+
+.text5 {
+    font-size: 15px;
+    color: #000000;
+    font-family: 'Cutive Mono', monospace;
+    text-align:start;
+}
+
+.row {
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.text6 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+padding: 10px;
+margin: 25px;
+}
+
+.subtitle3 {
+    font-family: 'Cutive Mono', monospace;
+    display: flex;
+    justify-content:space-between;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.subtitle4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:  #54b77d;
+}
+
+.container-grid-video {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 50px;
+    margin: 40px;   
+}
+
+.text7 {
+    color: #54b77d;
+    font-size: 15px ;
+}
+
+
+.col-8 {
+    width: fit-content;
+    margin-left: 100px;
+}
+
+.col-6 { 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:  #54b77d  
+}
